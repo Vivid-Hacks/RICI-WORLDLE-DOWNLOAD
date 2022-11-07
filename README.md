@@ -1,3 +1,2 @@
-# RICI-WORLDLE-DOWNLOAD
-
+## RICI Download
  To download, go to the "releases" section on the right, and download the executable that matches your system the best
